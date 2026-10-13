@@ -1,0 +1,14 @@
+{
+  "include": [
+    "app.py",
+    "src",
+    "tests"
+  ],
+  "exclude": [
+    "**/_c*.py",
+    ".venv",
+    "**/__pycache__"
+  ],
+  "pythonVersion": "3.14",
+  "typeCheckingMode": "basic"
+}
